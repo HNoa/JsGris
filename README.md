@@ -1,2 +1,4 @@
 # JsGris
 Desarrollando
+
+JavaScript Junior
